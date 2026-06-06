@@ -1,0 +1,15 @@
+# Data
+pandas
+numpy
+
+# Visualization
+matplotlib
+
+# Machine learning
+scikit-learn
+xgboost
+lightgbm
+shap
+
+# Running the notebooks
+ipykernel
